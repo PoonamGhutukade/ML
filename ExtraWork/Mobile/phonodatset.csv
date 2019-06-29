@@ -1,0 +1,113 @@
+brand,name,price,camera,screen size
+apple,Apple iPhone X,74999,12,5.8
+apple,Apple iPhone 8 Plus,63999,12,5.5
+apple,Apple iPhone 8,53999,12,4.7
+apple,Apple iPhone 7 Plus,44999,12,5.5
+apple,Apple iPhone 7,38999,12,4.7
+apple,Apple iPhone SE,23999,12,4
+apple,Apple iPhone 6s Plus,41290,12,5.5
+apple,Apple iPhone 6s,31000,12,4.7
+apple,Apple iPhone 6 Plus,41290,8,5.5
+apple,Apple iPhone 6,18999,8,4.7
+apple,Apple iPhone 4s,8550,8,3.5
+google,Google Pixel 2,50999,12.2,5
+google,Google Pixel 2 XL,44090,12.2,6
+google,Google Pixel XL,39970,12.3,5.5
+huawei,Huawei Honor 9N (9i),17648,13,5.84
+huawei,Huawei P Smart+ (nova 3i),17990,16,6.3
+huawei,Huawei nova 3,29999,16,6.3
+huawei,Huawei Honor Play,18999,16,6.3
+huawei,Huawei P20 Pro,54999,40,6.1
+huawei,Huawei P20 lite,15999,16,5.84
+huawei,Huawei Honor 7C,8999,13,5.99
+huawei,Huawei Honor 9 Lite,13527,13,5.65
+huawei,Huawei Honor 7X,9999,16,5.93
+huawei,Huawei Honor View 10,24999,16,5.99
+huawei,Huawei P9 lite mini,13527,13,5
+huawei,Huawei Honor 9,14628,12,5.15
+huawei,Huawei Honor 8 Pro,19999,12,5.7
+huawei,Huawei Honor Holly 3,8391,13,5.5
+huawei,Huawei Honor 8,15400,12,5.2
+huawei,Huawei P9,20999,12,5.2
+huawei,Huawei Honor Holly 2 Plus,8799,13,5
+huawei,Huawei Honor 5X,9499,13,5.5
+motorola,Motorola Moto E5 Plus,9999,12,6
+motorola,Motorola Moto G6 Play,10764,13,5.7
+motorola,Motorola Moto G6,13999,12,5.7
+motorola,Motorola Moto X4,10999,12,5.2
+motorola,Motorola Moto G5S Plus,9999,13,5.5
+motorola,Motorola Moto G5S,11498,16,5.2
+motorola,Motorola Moto E4 Plus,13799,13,5.5
+motorola,Motorola Moto Z2 Play,14600,12,5.5
+motorola,Motorola Moto C,6299,5,5
+motorola,Motorola Moto G5 Plus,13299,12,5.2
+motorola,Motorola Moto G5,10495,13,5
+motorola,Motorola Moto M,8499,16,5.5
+motorola,Motorola Moto E3 Power,6995,8,5
+motorola,Motorola Moto Z Play,14600,16,5.5
+motorola,Motorola Moto G Turbo Edition,5994,13,5
+motorola,Motorola Moto X Force,17599,21,5.4
+nokia,Nokia 6.1 Plus (Nokia X6),14999,16,5.8
+nokia,Nokia 5.1,13799,16,5.5
+nokia,Nokia 3.1,9690,13,5.2
+nokia,Nokia 2.1,6490,8,5.5
+nokia,Nokia 8 Sirocco,47497,12,5.5
+nokia,Nokia 7 plus,18999,12,6
+nokia,Nokia 6.1,14999,16,5.5
+nokia,Nokia 2,6699,8,5
+nokia,Nokia 8,29281,13,5.3
+nokia,Nokia 3,5500,8,5
+nokia,Nokia 5,10599,13,5.2
+nokia,Nokia Lumia 730 Dual SIM,8499,6.7,4.7
+nokia,Nokia Lumia 930,29999,20,5
+nokia,Nokia XL,9400,5,5
+nokia,Nokia Lumia 1320,6999,5,6
+oppo,Oppo F9 (F9 Pro),23990,16,6.3
+oppo,Oppo A3s,12990,13,6.2
+oppo,Oppo A5,14990,13,6.2
+oppo,Oppo F7 Youth,12990,13,6
+oppo,Oppo Realme 1,10490,13,6
+oppo,Oppo A3,10990,16,6.2
+oppo,Oppo A1,9100,13,5.7
+oppo,Oppo A71 (2018),8990,13,5.2
+oppo,Oppo A83,11681,13,5.7
+oppo,Oppo F5 Youth,12990,13,6
+oppo,Oppo A71,9100,13,5.2
+oppo,Oppo F3,14900,16,5.5
+samsung,Samsung Galaxy Note9,67900,12,6.4
+samsung,Samsung Galaxy J6+,15990,13,6
+samsung,Samsung Galaxy J4+,10990,13,6
+samsung,Samsung Galaxy J2 Core,6190,8,5
+samsung,Samsung Galaxy A8 Star (A9 Star),34990,24,6.3
+samsung,Samsung Galaxy J8,17990,16,6
+samsung,Samsung Galaxy J6,12490,13,5.6
+samsung,Samsung Galaxy J4,8990,13,5.5
+samsung,Samsung Galaxy A6+ (2018),21990,16,6
+samsung,Samsung Galaxy A6 (2018),16990,16,5.6
+samsung,Samsung Galaxy S9+,72990,12,6.2
+samsung,Samsung Galaxy J2 Pro (2018),8300,8,5
+samsung,Samsung Galaxy A8+ (2018),23990,16,6
+samsung,Samsung Galaxy J2 (2017),7690,5,4.7
+samsung,Samsung Galaxy C7 (2017),22400,13,5.5
+samsung,Samsung Galaxy Note8,43990,12,6.3
+samsung,Samsung Galaxy J7 Max,17610.43,13,5.7
+samsung,Samsung Galaxy J7 Pro,18900,13,5.5
+samsung,Samsung Galaxy C7 Pro,22400,16,5.7
+samsung,Samsung Galaxy On7 (2016),6790,13,5.5
+samsung,Samsung Galaxy On5 Pro,5990,8,5
+samsung,Samsung Galaxy S7 edge,29900,12,5.5
+vivo,vivo V11 (V11 Pro),25990,12,6.41
+vivo,vivo Y83 Pro,15990,13,6.22
+vivo,vivo Y83,13990,13,6.22
+vivo,vivo Y81,11990,13,6.22
+vivo,vivo Y53i,7990,8,5
+vivo,vivo Y71,8990,13,6
+vivo,vivo V9,18990,16,6.3
+vivo,vivo V7+,17999,16,5.99
+vivo,vivo Y69,11100,13,5.5
+vivo,vivo Y53,8240,8,5
+vivo,vivo V5s,14499,13,5.5
+vivo,vivo V5 Plus,15499,20,5.5
+vivo,vivo V1,13500,13,5
+vivo,vivo V1 Max,14400,13,5.5
+vivo,vivo X5Max,24999,13,5.5
